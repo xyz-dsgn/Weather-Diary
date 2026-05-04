@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-05-04",
+    "temperature": 7.0,
+    "description": "Облачно",
+    "precipitation": false
+  },
+  {
+    "date": "2026-05-03",
+    "temperature": 5.0,
+    "description": "Дождь",
+    "precipitation": true
+  },
+  {
+    "date": "2026-05-02",
+    "temperature": 6.0,
+    "description": "Дождь",
+    "precipitation": true
+  },
+  {
+    "date": "2026-05-01",
+    "temperature": 8.0,
+    "description": "Облачно",
+    "precipitation": false
+  },
+  {
+    "date": "2026-04-30",
+    "temperature": 10.0,
+    "description": "Облачно",
+    "precipitation": false
+  }
+]
